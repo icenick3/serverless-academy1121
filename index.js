@@ -62,6 +62,8 @@ while (optionOfSort !== 'exit'){
 }
 rl.close();
 rl.close();
+rl.close();
+rl.close();
 
 
 
